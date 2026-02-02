@@ -9,3 +9,4 @@ npm-debug.log
 .phpunit.result.cache
 package-lock.json
 tests/Browser/Screenshots
+docs/.vitepress/dist
