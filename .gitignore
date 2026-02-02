@@ -1,0 +1,11 @@
+node_modules
+vendor
+.env
+yarn.lock
+npm-debug.log
+.DS_Store
+.idea
+.vscode
+.phpunit.result.cache
+package-lock.json
+tests/Browser/Screenshots

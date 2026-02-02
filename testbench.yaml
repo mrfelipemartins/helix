@@ -1,0 +1,14 @@
+providers:
+  - MrFelipeMartins\Helix\HelixServiceProvider
+
+migrations:
+  - database/migrations
+
+workbench:
+  start: '/helix'
+  install: true
+  welcome: false
+  build:
+    - asset-publish
+    - create-sqlite-db
+    - migrate-refresh
