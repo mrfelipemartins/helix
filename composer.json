@@ -1,8 +1,14 @@
 {
   "name": "mrfelipemartins/helix",
-  "description": "Laravel dashboard for managing Vektor vector indexes",
+  "description": "Helix is a vector similarity search engine and dashboard for Laravel.",
   "type": "library",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Felipe Martins",
+      "email": "mrfelipemartins@gmail.com"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "MrFelipeMartins\\Helix\\": "src/"
